@@ -1,0 +1,4 @@
+name: XRayAlerter
+version: '${project.version}'
+main: com.demez.be.XRayAlerter
+api-version: '1.20'
